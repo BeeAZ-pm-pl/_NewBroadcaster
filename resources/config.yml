@@ -1,0 +1,7 @@
+broadcaster:
+ time: 300
+ message:
+ - "{PREFIX} => Test1"
+ - "{PREFIX} => Test2"
+ - "{PREFIX} => Test3"
+prefix: "[BetterBroadcaster]"
