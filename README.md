@@ -1,6 +1,13 @@
 # General
-A plugin that helps you to send simple player notifications better
+**Added a feature to see in the dark when players use commands**
 
-# Use
+# Note
+**Supported PM4**
 
-Edit Config.yml
+<br>
+**Prefix Support**
+
+<br>
+**Simple configuration easy to understand and use**
+
+
