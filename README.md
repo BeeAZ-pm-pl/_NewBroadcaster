@@ -1,5 +1,5 @@
 # General
-**Added a feature to see in the dark when players use command**
+**Create a repeating message to support server players**
 
 # Note
 **Supported PM4**
