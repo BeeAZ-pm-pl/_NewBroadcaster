@@ -1,5 +1,5 @@
 # General
-**Added a feature to see in the dark when players use commands**
+**Added a feature to see in the dark when players use command**
 
 # Note
 **Supported PM4**
