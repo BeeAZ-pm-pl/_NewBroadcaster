@@ -1,5 +1,5 @@
-name: BetterBroadcaster
+name: Broadcaster
 author: BeeAZZ
-main: BetterBroadcaster\Main
+main: BeeAZZ\Broadcaster\Main
 api: 4.0.0
-version: 0.2
+version: 0.0.1
